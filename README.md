@@ -1,3 +1,3 @@
-# agruparNumeros
+# Group Numbers
 
-Apenas um trabalho de faculdade que agrupa números na linguagem C
+A simple College Work to group numbers in C language
